@@ -1,0 +1,4 @@
+repository "FIRETECH_PacoDoFrevo2/FIRETECH_PacoDoFrevo2@4674136979403@cloud"
+  path "/"
+    br "/main"
+    co "/main"
